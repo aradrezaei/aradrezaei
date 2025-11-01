@@ -6,13 +6,8 @@
   </a>
 </p>
 
-### 📫 ارتباط با من
-📍 وب‌سایت: [aradrezaei.github.io](https://aradrezaei.github.io)  
-📧 ایمیل (اختیاری): `arad@example.com` *(اگر خواستی ایمیلتو اینجا می‌ذاریم)*  
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aradrezaei&label=👀 بازدید&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</p>
+  <a align="center" src="https://aradrezaei.github.io" alt="arad rezaei">Web site</a>
+
 
