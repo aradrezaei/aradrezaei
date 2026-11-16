@@ -9,11 +9,8 @@ I enjoy building software, exploring new technologies, and solving challenging p
 ### 🧑‍💻 About Me
 
 - 💻 Software Developer
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🌐 Exploring Web Development and Modern Technologies
-- 🧠 Passionate about Computer Science, Mathematics & Physics
-- 🚀 Building projects and experimenting with new ideas
-- ⚡ Always learning something new
+- 🌐 Working with modern web technologies
+- ⚡ Always learning and building.
 
 ---
 
@@ -25,10 +22,11 @@ I enjoy building software, exploring new technologies, and solving challenging p
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,rust,dart,php" />
 </p>
 
+
 **Frameworks & Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=svelte,nextjs,react,flutter,nodejs,fastapi" />
+  <img src="https://skillicons.dev/icons?i=svelte,nextjs,react,flutter,nodejs,bun,django" />
 </p>
 
 **Tools & Environment**
