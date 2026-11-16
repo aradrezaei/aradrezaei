@@ -1,54 +1,79 @@
-# Arad Rezaei
-### Software Developer
+# Hey, I'm Arad 👋
 
-I build software, explore new technologies, and turn ideas into practical solutions.
+### Software Developer | Building Things That Matter
+
+I enjoy building software, exploring new technologies, and solving challenging problems. Always curious, always learning, always building.
 
 ---
 
-### About
+### 🧑‍💻 About Me
 
-- Software Developer
-- Interested in Artificial Intelligence and Computer Science
-- Exploring low-level programming and software architecture
-- Always learning, building, and experimenting
+- 💻 Software Developer
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🌐 Exploring Web Development and Modern Technologies
+- 🧠 Passionate about Computer Science, Mathematics & Physics
+- 🚀 Building projects and experimenting with new ideas
+- ⚡ Always learning something new
 
-### Tech Stack
+---
+
+### 🛠️ Technologies & Tools
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-18181B?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-18181B?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript)
-![Dart](https://img.shields.io/badge/Dart-18181B?style=for-the-badge&logo=dart)
-![Rust](https://img.shields.io/badge/Rust-18181B?style=for-the-badge&logo=rust)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,rust,dart,php" />
+</p>
 
-**Frameworks & Tools**
+**Frameworks & Development**
 
-![Next.js](https://img.shields.io/badge/Next.js-18181B?style=for-the-badge&logo=next.js)
-![Flutter](https://img.shields.io/badge/Flutter-18181B?style=for-the-badge&logo=flutter)
-![Linux](https://img.shields.io/badge/Linux-18181B?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-18181B?style=for-the-badge&logo=docker)
+<p>
+  <img src="https://skillicons.dev/icons?i=svelte,nextjs,react,flutter,nodejs,fastapi" />
+</p>
 
----
+**Tools & Environment**
 
-### GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=C9D1D9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,postgres,redis,figma" />
+</p>
 
 ---
 
-### Connect
+### 🌍 Find Me Around the Web
 
-[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_X_URL">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="YOUR_INSTAGRAM_URL">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://xbelt.tech">
+    <img src="https://img.shields.io/badge/Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="YOUR_YOUTUBE_URL">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<sub>Build. Learn. Explore.</sub>
+### 🚀 Featured Projects
+
+Check out my repositories to explore what I'm currently building.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <i>Build. Learn. Explore. Repeat.</i>
+</p>
