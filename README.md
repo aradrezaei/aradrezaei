@@ -40,38 +40,22 @@ I enjoy building software, exploring new technologies, and solving challenging p
 ### 🌍 Find Me Around the Web
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/aradrezaei">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://linkedin.com/in/aradrezaei">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_X_URL">
+  <a href="https://x.com/Aradrezaeii">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="YOUR_INSTAGRAM_URL">
+  <a href="https://instagram.com/aradrezaei">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://xbelt.tech">
+  <a href="https://aradrezaei.github.io">
     <img src="https://img.shields.io/badge/Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="YOUR_YOUTUBE_URL">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-### 🚀 Featured Projects
-
-Check out my repositories to explore what I'm currently building.
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
-
-<p align="center">
-  <i>Build. Learn. Explore. Repeat.</i>
-</p>
